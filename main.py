@@ -1,6 +1,6 @@
 def pyramid(n=10):
     for i in range(n):
-        print("_"*i)
+        print("-"*i)
 
 
-pyramid(10)
+pyramid(25)
