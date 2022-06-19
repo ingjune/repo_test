@@ -3,4 +3,4 @@ def pyramid(n=10):
         print("_"*i)
 
 
-pyramid(10)
+pyramid(20)
